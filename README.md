@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -38,9 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0118-pascals-triangle) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
