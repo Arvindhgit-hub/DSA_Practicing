@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0219-contains-duplicate-ii) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
