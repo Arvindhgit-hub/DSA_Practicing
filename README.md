@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -86,5 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
