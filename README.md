@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0054-spiral-matrix) |
+| [1920-build-array-from-permutation](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
