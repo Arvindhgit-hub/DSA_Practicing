@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0389-find-the-difference) |
+| [1544-make-the-string-great](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1544-make-the-string-great) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1441-build-an-array-with-stack-operations) |
+| [1544-make-the-string-great](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
