@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1108-defanging-an-ip-address) |
