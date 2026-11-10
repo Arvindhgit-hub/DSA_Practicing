@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1108-defanging-an-ip-address) |
 | [1544-make-the-string-great](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1544-make-the-string-great) |
+| [1678-goal-parser-interpretation](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1678-goal-parser-interpretation) |
 | [2129-capitalize-the-title](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2129-capitalize-the-title) |
 ## Prefix Sum
 |  |
