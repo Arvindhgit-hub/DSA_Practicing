@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0821-shortest-distance-to-a-character](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0821-shortest-distance-to-a-character) |
 | [1002-find-common-characters](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1002-find-common-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1480-running-sum-of-1d-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0821-shortest-distance-to-a-character) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0771-jewels-and-stones) |
+| [0821-shortest-distance-to-a-character](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0821-shortest-distance-to-a-character) |
 | [1002-find-common-characters](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1108-defanging-an-ip-address) |
 | [1544-make-the-string-great](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1544-make-the-string-great) |
