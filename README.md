@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0443-string-compression](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0821-shortest-distance-to-a-character) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0709-to-lower-case) |
