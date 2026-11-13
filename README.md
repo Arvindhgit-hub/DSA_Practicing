@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0383-ransom-note) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0409-longest-palindrome) |
