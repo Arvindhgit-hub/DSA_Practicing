@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0409-longest-palindrome) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0409-longest-palindrome) |
