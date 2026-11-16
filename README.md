@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0890-find-and-replace-pattern) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0647-palindromic-substrings) |
