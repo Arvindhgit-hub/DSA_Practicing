@@ -3,8 +3,8 @@ class Solution(object):
         freq = {}
         left = 0
         max_len = 0
-        for right , ch in enumerate(s):
-            freq[ch] = freq.get(ch, 0) + 1
+        for right, ch in enumerate(s):
+            freq[ch]= freq.get(ch,0)+1
             while freq[ch] > 1:
                 left_ch = s[left]
                 freq[left_ch] -= 1
