@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0383-ransom-note) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1678-goal-parser-interpretation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2129-capitalize-the-title](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2129-capitalize-the-title) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2416-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
