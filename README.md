@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1002-find-common-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0791-custom-sort-string) |
 ## Counting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0821-shortest-distance-to-a-character) |
 | [0890-find-and-replace-pattern](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0890-find-and-replace-pattern) |
