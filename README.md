@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1002-find-common-characters) |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0680-valid-palindrome-ii) |
@@ -199,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2416-sum-of-prefix-scores-of-strings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
