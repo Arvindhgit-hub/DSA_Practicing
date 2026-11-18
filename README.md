@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1002-find-common-characters) |
@@ -75,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0767-reorganize-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0709-to-lower-case) |
+| [0767-reorganize-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0821-shortest-distance-to-a-character) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0767-reorganize-string) |
 ## String Matching
 |  |
 | ------- |
@@ -207,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
