@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0821-shortest-distance-to-a-character) |
 | [0890-find-and-replace-pattern](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1002-find-common-characters) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Stack
 |  |
 | ------- |
