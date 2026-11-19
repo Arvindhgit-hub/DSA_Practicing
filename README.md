@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0821-shortest-distance-to-a-character) |
 | [0890-find-and-replace-pattern](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1002-find-common-characters) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1108-defanging-an-ip-address](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1544-make-the-string-great) |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/0451-sort-characters-by-frequency) |
+## Union-Find
+|  |
+| ------- |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Arvindhgit-hub/DSA_Practicing/tree/master/1061-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
